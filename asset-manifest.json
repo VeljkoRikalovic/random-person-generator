@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-person-generator/static/css/main.63d58003.css",
+    "main.js": "/random-person-generator/static/js/main.8d7194b3.js",
+    "index.html": "/random-person-generator/index.html",
+    "main.63d58003.css.map": "/random-person-generator/static/css/main.63d58003.css.map",
+    "main.8d7194b3.js.map": "/random-person-generator/static/js/main.8d7194b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d58003.css",
+    "static/js/main.8d7194b3.js"
+  ]
+}
